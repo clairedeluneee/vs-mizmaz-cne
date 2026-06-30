@@ -60,6 +60,8 @@ function update() {
 		condition++;
 	if (bf.animation.curAnim.name == "idle" && curCameraTarget == 1)
 		condition++;
+	if (curCameraTarget != 0 && curCameraTarget != 1)
+		condition++;
 
 	if (condition > 0 && !hasIdled)
 		doMove(null);
