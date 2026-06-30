@@ -1,0 +1,19 @@
+<menu name="Mod Credits" desc="claire please add details">
+
+    <credit
+        name="MizMaz"
+        desc="The dude that's on this mod that made everything"
+        icon="mizmaz"
+        size="130"
+        url="https://www.youtube.com/channel/UCWby6DC5Se55Pua8w5kcrFw"
+    />
+
+    <github
+        user="clairedeluneee"
+        customName="Claire de Lune"
+        desc="The girl that ported this to CNE"
+        size="100"
+        portrait="true"
+    />
+
+</menu>
