@@ -5,9 +5,10 @@
 	],
 	"icon": "face",
 	"coopAllowed": false,
+	"color": "#9271FD",
 	"stepsPerBeat": 4,
 	"displayName": "P4R4-D0X",
-	"beatsPerMeasure": 4,
 	"needsVoices": true,
+	"beatsPerMeasure": 4,
 	"bpm": 200
 }

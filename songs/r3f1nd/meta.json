@@ -1,4 +1,6 @@
 {
+	"customValues": {},
+	"color": "#9271FD",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
@@ -7,7 +9,7 @@
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "R3F1ND",
-	"beatsPerMeasure": 4,
 	"needsVoices": true,
+	"beatsPerMeasure": 4,
 	"bpm": 200
 }

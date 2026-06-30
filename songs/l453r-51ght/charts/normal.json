@@ -1,5 +1,4 @@
 {
-	"stage": "the alley",
 	"events": [
 		{
 			"params": [
@@ -303,10 +302,13 @@
 			"time": 126857.142857143
 		}
 	],
-	"scrollSpeed": 2.8,
 	"codenameChart": true,
+	"stage": "the alley",
+	"scrollSpeed": 2.8,
+	"chartVersion": "1.6.0",
 	"strumLines": [
 		{
+			"keyCount": 4,
 			"notes": [
 				{
 					"id": 3,
@@ -2253,13 +2255,23 @@
 					"type": 0
 				}
 			],
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
 			"position": "dad",
+			"strumScale": 1,
+			"vocalsSuffix": "-Opponent",
+			"strumLinePos": 0.25,
 			"type": 0,
 			"characters": [
 				"mizmaz"
 			]
 		},
 		{
+			"keyCount": 4,
 			"notes": [
 				{
 					"id": 2,
@@ -3337,7 +3349,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 267.857142857143,
+					"sLen": 267.857142857145,
 					"time": 72000,
 					"type": 0
 				},
@@ -3577,7 +3589,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 267.857142857143,
+					"sLen": 267.857142857145,
 					"time": 84428.4869999996,
 					"type": 0
 				},
@@ -4104,26 +4116,31 @@
 					"type": 0
 				}
 			],
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
 			"position": "boyfriend",
+			"strumScale": 1,
+			"vocalsSuffix": "-Player",
+			"strumLinePos": 0.75,
 			"type": 1,
 			"characters": [
 				"pico-playable"
 			]
 		},
 		{
-			"notes": [],
-			"visible": false,
+			"keyCount": 4,
 			"position": "girlfriend",
-			"type": 2,
+			"notes": [],
 			"characters": [
 				"gf"
-			]
+			],
+			"visible": false,
+			"type": 2
 		}
 	],
-	"meta": {
-		"needsVoices": true,
-		"bpm": 140,
-		"name": "l453r-51ght"
-	},
 	"noteTypes": []
 }
