@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="mizmazdead" icon="mizmaz" color="#ffea93" x="-160" y="-80" camx="310" camy="-10" scale="0.7">
+	<anim name="firstDeath" anim="mizgameover"/>
+	<anim name="deathConfirm" anim="mizgameendloop" x="47.142857142857146" y="-122.85714285714286"/>
+	<anim name="deathLoop" anim="mizgameloop" x="14.285714285714286" y="-8.571428571428571" loop="true"/>
+</character>

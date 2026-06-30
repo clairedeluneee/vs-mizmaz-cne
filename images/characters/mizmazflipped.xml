@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mizmazflipped.png">
+	<!-- Created with Adobe Animate version 24.0.10.14 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mizdodge0000" x="100" y="100" width="809" height="1060" frameX="-41" frameY="0" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdodge0001" x="1009" y="100" width="809" height="1060" frameX="-41" frameY="0" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdodge0002" x="1918" y="100" width="839" height="1059" frameX="-14" frameY="-2" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdodge0003" x="1918" y="100" width="839" height="1059" frameX="-14" frameY="-2" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdodge0004" x="2857" y="100" width="851" height="1054" frameX="-3" frameY="-6" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdodge0005" x="2857" y="100" width="851" height="1054" frameX="-3" frameY="-6" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdodge0006" x="3808" y="100" width="855" height="1052" frameX="0" frameY="-8" frameWidth="855" frameHeight="1061"/>
+	<SubTexture name="mizdown0000" x="4763" y="100" width="639" height="912" frameX="0" frameY="-57" frameWidth="639" frameHeight="969"/>
+	<SubTexture name="mizdown0001" x="4763" y="100" width="639" height="912" frameX="0" frameY="-57" frameWidth="639" frameHeight="969"/>
+	<SubTexture name="mizdown0002" x="5502" y="100" width="626" height="963" frameX="-6" frameY="-6" frameWidth="639" frameHeight="969"/>
+	<SubTexture name="mizdown0003" x="5502" y="100" width="626" height="963" frameX="-6" frameY="-6" frameWidth="639" frameHeight="969"/>
+	<SubTexture name="mizdown0004" x="6228" y="100" width="620" height="969" frameX="-9" frameY="0" frameWidth="639" frameHeight="969"/>
+	<SubTexture name="mizdown0005" x="6228" y="100" width="620" height="969" frameX="-9" frameY="0" frameWidth="639" frameHeight="969"/>
+	<SubTexture name="mizdownmiss0000" x="6948" y="100" width="629" height="967"/>
+	<SubTexture name="mizdownmiss0001" x="6948" y="100" width="629" height="967"/>
+	<SubTexture name="mizdownmiss0002" x="6948" y="100" width="629" height="967"/>
+	<SubTexture name="mizdownmiss0003" x="6948" y="100" width="629" height="967"/>
+	<SubTexture name="mizdownmiss0004" x="6948" y="100" width="629" height="967"/>
+	<SubTexture name="mizdownmiss0005" x="6948" y="100" width="629" height="967"/>
+	<SubTexture name="mizhurt0000" x="100" y="1260" width="716" height="969" frameX="0" frameY="-52" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizhurt0001" x="916" y="1260" width="716" height="969" frameX="0" frameY="-52" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizhurt0002" x="1732" y="1260" width="683" height="1019" frameX="-29" frameY="-2" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizhurt0003" x="1732" y="1260" width="683" height="1019" frameX="-29" frameY="-2" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizhurt0004" x="2515" y="1260" width="682" height="1021" frameX="-29" frameY="0" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizhurt0005" x="2515" y="1260" width="682" height="1021" frameX="-29" frameY="0" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizhurt0006" x="3297" y="1260" width="682" height="1020" frameX="-29" frameY="-1" frameWidth="716" frameHeight="1021"/>
+	<SubTexture name="mizidle0000" x="4079" y="1260" width="589" height="1004" frameX="0" frameY="-32" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0001" x="4079" y="1260" width="589" height="1004" frameX="0" frameY="-32" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0002" x="4768" y="1260" width="579" height="1009" frameX="-4" frameY="-27" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0003" x="4768" y="1260" width="579" height="1009" frameX="-4" frameY="-27" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0004" x="5447" y="1260" width="588" height="1029" frameX="-12" frameY="-7" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0005" x="5447" y="1260" width="588" height="1029" frameX="-12" frameY="-7" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0006" x="6135" y="1260" width="586" height="1035" frameX="-16" frameY="-1" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0007" x="6135" y="1260" width="586" height="1035" frameX="-16" frameY="-1" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0008" x="6821" y="1260" width="585" height="1036" frameX="-18" frameY="0" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizidle0009" x="6821" y="1260" width="585" height="1036" frameX="-18" frameY="0" frameWidth="603" frameHeight="1036"/>
+	<SubTexture name="mizleft0000" x="100" y="2396" width="748" height="1028" frameX="-2" frameY="0" frameWidth="750" frameHeight="1028"/>
+	<SubTexture name="mizleft0001" x="100" y="2396" width="748" height="1028" frameX="-2" frameY="0" frameWidth="750" frameHeight="1028"/>
+	<SubTexture name="mizleft0002" x="948" y="2396" width="740" height="1021" frameX="-1" frameY="-7" frameWidth="750" frameHeight="1028"/>
+	<SubTexture name="mizleft0003" x="948" y="2396" width="740" height="1021" frameX="-1" frameY="-7" frameWidth="750" frameHeight="1028"/>
+	<SubTexture name="mizleft0004" x="1788" y="2396" width="738" height="1016" frameX="0" frameY="-12" frameWidth="750" frameHeight="1028"/>
+	<SubTexture name="mizleft0005" x="1788" y="2396" width="738" height="1016" frameX="0" frameY="-12" frameWidth="750" frameHeight="1028"/>
+	<SubTexture name="mizleftmiss0000" x="2626" y="2396" width="744" height="1025"/>
+	<SubTexture name="mizleftmiss0001" x="2626" y="2396" width="744" height="1025"/>
+	<SubTexture name="mizleftmiss0002" x="2626" y="2396" width="744" height="1025"/>
+	<SubTexture name="mizleftmiss0003" x="2626" y="2396" width="744" height="1025"/>
+	<SubTexture name="mizleftmiss0004" x="2626" y="2396" width="744" height="1025"/>
+	<SubTexture name="mizleftmiss0005" x="2626" y="2396" width="744" height="1025"/>
+	<SubTexture name="mizpunch0005" x="3470" y="2396" width="819" height="1016" frameX="-5" frameY="0" frameWidth="1034" frameHeight="1016"/>
+	<SubTexture name="mizpunch0004" x="3470" y="2396" width="819" height="1016" frameX="-5" frameY="0" frameWidth="1034" frameHeight="1016"/>
+	<SubTexture name="mizpunch0003" x="4389" y="2396" width="1004" height="990" frameX="0" frameY="-26" frameWidth="1034" frameHeight="1016"/>
+	<SubTexture name="mizpunch0002" x="4389" y="2396" width="1004" height="990" frameX="0" frameY="-26" frameWidth="1034" frameHeight="1016"/>
+	<SubTexture name="mizpunch0001" x="5493" y="2396" width="1033" height="980" frameX="-1" frameY="-36" frameWidth="1034" frameHeight="1016"/>
+	<SubTexture name="mizpunch0000" x="5493" y="2396" width="1033" height="980" frameX="-1" frameY="-36" frameWidth="1034" frameHeight="1016"/>
+	<SubTexture name="mizright0000" x="6626" y="2396" width="699" height="1018" frameX="0" frameY="-36" frameWidth="699" frameHeight="1056"/>
+	<SubTexture name="mizright0001" x="6626" y="2396" width="699" height="1018" frameX="0" frameY="-36" frameWidth="699" frameHeight="1056"/>
+	<SubTexture name="mizright0002" x="100" y="3524" width="691" height="1047" frameX="-1" frameY="-9" frameWidth="699" frameHeight="1056"/>
+	<SubTexture name="mizright0003" x="100" y="3524" width="691" height="1047" frameX="-1" frameY="-9" frameWidth="699" frameHeight="1056"/>
+	<SubTexture name="mizright0004" x="891" y="3524" width="686" height="1056" frameX="-2" frameY="0" frameWidth="699" frameHeight="1056"/>
+	<SubTexture name="mizright0005" x="891" y="3524" width="686" height="1056" frameX="-2" frameY="0" frameWidth="699" frameHeight="1056"/>
+	<SubTexture name="mizrightmiss0000" x="1677" y="3524" width="695" height="1051"/>
+	<SubTexture name="mizrightmiss0001" x="1677" y="3524" width="695" height="1051"/>
+	<SubTexture name="mizrightmiss0002" x="1677" y="3524" width="695" height="1051"/>
+	<SubTexture name="mizrightmiss0003" x="1677" y="3524" width="695" height="1051"/>
+	<SubTexture name="mizrightmiss0004" x="1677" y="3524" width="695" height="1051"/>
+	<SubTexture name="mizrightmiss0005" x="1677" y="3524" width="695" height="1051"/>
+	<SubTexture name="mizup0000" x="2472" y="3524" width="605" height="1082" frameX="-27" frameY="0" frameWidth="635" frameHeight="1083"/>
+	<SubTexture name="mizup0001" x="2472" y="3524" width="605" height="1082" frameX="-27" frameY="0" frameWidth="635" frameHeight="1083"/>
+	<SubTexture name="mizup0002" x="3177" y="3524" width="629" height="1078" frameX="-5" frameY="-5" frameWidth="635" frameHeight="1083"/>
+	<SubTexture name="mizup0003" x="3177" y="3524" width="629" height="1078" frameX="-5" frameY="-5" frameWidth="635" frameHeight="1083"/>
+	<SubTexture name="mizup0004" x="3906" y="3524" width="635" height="1075" frameX="0" frameY="-8" frameWidth="635" frameHeight="1083"/>
+	<SubTexture name="mizup0005" x="3906" y="3524" width="635" height="1075" frameX="0" frameY="-8" frameWidth="635" frameHeight="1083"/>
+	<SubTexture name="mizupmiss0000" x="4641" y="3524" width="633" height="1082"/>
+	<SubTexture name="mizupmiss0001" x="4641" y="3524" width="633" height="1082"/>
+	<SubTexture name="mizupmiss0002" x="4641" y="3524" width="633" height="1082"/>
+	<SubTexture name="mizupmiss0003" x="4641" y="3524" width="633" height="1082"/>
+	<SubTexture name="mizupmiss0004" x="4641" y="3524" width="633" height="1082"/>
+	<SubTexture name="mizupmiss0005" x="4641" y="3524" width="633" height="1082"/>
+</TextureAtlas>

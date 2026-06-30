@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="Skeleton" icon="skele" color="#201822" x="100" y="440" camx="-170" camy="-80" scale="1.5">
+	<anim name="idle" anim="idle"/>
+	<anim name="singLEFT" anim="left" x="88.66666666666667" y="0"/>
+	<anim name="singUP" anim="up" x="-18" y="84.66666666666667"/>
+	<anim name="singRIGHT" anim="right" x="-18" y="0"/>
+	<anim name="singDOWN" anim="down" x="50.666666666666664" y="0"/>
+</character>
