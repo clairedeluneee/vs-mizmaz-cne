@@ -1,16 +1,15 @@
 <!DOCTYPE codename-engine-stage>
 <stage folder="stages/the alley/" name="the alley" zoom="0.65">
 	<sprite
-        x="80.21195220338276"
+        x="80.2119522033828"
         sprite="mizmaz-alleyway"
         y="0.7965850847477"
         type="none"
-        scalex="2.5"
+        scale="2.5"
         skewy="0.128136596610091"
-        scaley="2.5"
         name="alley"
     />
-	<girlfriend x="537.142880647265" y="432.857139594766" />
-	<dad x="195.238095238095" y="374.285714285715" />
-	<boyfriend x="1130.47619047619" y="398.095238095238" />
+	<girlfriend x="750.912111416496" y="499.010985748612" />
+	<dad x="302.161172161172" y="414.285714285715" />
+	<boyfriend x="1098.1684981685" y="478.095238095238" />
 </stage>

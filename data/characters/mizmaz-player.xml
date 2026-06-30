@@ -1,18 +1,72 @@
 <!DOCTYPE codename-engine-character>
 <!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
-<character sprite="mizmazflipped" icon="mizmaz" color="#ffea93" x="-50" y="-80" camx="120" camy="200" scale="0.7">
-	<anim name="idle" anim="mizidle" x="110" y="5.714285714285714"/>
-	<anim name="punch" anim="mizpunch" x="628.5714285714286" y="-28.571428571428573"/>
-	<anim name="dodge" anim="mizdodge" x="118.57142857142858" y="14.285714285714286"/>
-	<anim name="hurt" anim="mizhurt" x="84.28571428571429" y="-28.571428571428573"/>
-	<anim name="hey" anim="mizpunch" x="628.5714285714286" y="-28.571428571428573"/>
-	<anim name="singDOWN" anim="mizdown0" x="98.57142857142858" y="-85.71428571428572"/>
-	<anim name="singUP" anim="mizup0" x="100" y="60.00000000000001"/>
-	<anim name="singLEFT" anim="mizright0" x="318.5714285714286" y="-14.285714285714286"/>
-	<anim name="singRIGHT" anim="mizleft0" x="80" y="-1.4285714285714286"/>
-	<anim name="singRIGHTmiss" anim="mizleftmiss" x="80" y="-1.4285714285714286"/>
-	<anim name="singLEFTmiss" anim="mizrightmiss" x="318.5714285714286" y="-14.285714285714286"/>
-	<anim name="singUPmiss" anim="mizupmiss" x="100" y="60.00000000000001"/>
-	<anim name="singDOWNmiss" anim="mizdownmiss" x="98.57142857142858" y="-85.71428571428572"/>
-	<anim name="attack" anim="mizpunch" x="628.5714285714286" y="-28.571428571428573"/>
+<character
+    sprite="mizmazflipped"
+    icon="mizmaz"
+    color="#ffea93"
+    x="0"
+    y="-80"
+    camx="0"
+    camy="50"
+    scale="0.7"
+>
+	<anim name="idle" anim="mizidle" x="110" y="5.714285714285714" />
+	<anim
+        name="punch"
+        anim="mizpunch"
+        x="628.5714285714286"
+        y="-28.571428571428573"
+    />
+	<anim
+        name="dodge"
+        anim="mizdodge"
+        x="118.57142857142858"
+        y="14.285714285714286"
+    />
+	<anim
+        name="hurt"
+        anim="mizhurt"
+        x="84.28571428571429"
+        y="-28.571428571428573"
+    />
+	<anim
+        name="hey"
+        anim="mizpunch"
+        x="628.5714285714286"
+        y="-28.571428571428573"
+    />
+	<anim
+        name="singDOWN"
+        anim="mizdown0"
+        x="98.57142857142858"
+        y="-85.71428571428572"
+    />
+	<anim name="singUP" anim="mizup0" x="100" y="60.00000000000001" />
+	<anim
+        name="singLEFT"
+        anim="mizright0"
+        x="318.5714285714286"
+        y="-14.285714285714286"
+    />
+	<anim name="singRIGHT" anim="mizleft0" x="80" y="-1.4285714285714286" />
+	<anim name="singRIGHTmiss" anim="mizleftmiss" x="80" y="-1.4285714285714286" />
+	<anim
+        name="singLEFTmiss"
+        anim="mizrightmiss"
+        x="318.5714285714286"
+        y="-14.285714285714286"
+    />
+	<anim name="singUPmiss" anim="mizupmiss" x="100" y="60.00000000000001" />
+	<anim
+        name="singDOWNmiss"
+        anim="mizdownmiss"
+        x="98.57142857142858"
+        y="-85.71428571428572"
+    />
+	<anim
+        name="attack"
+        anim="mizpunch"
+        x="628.5714285714286"
+        y="-28.571428571428573"
+    />
 </character>
