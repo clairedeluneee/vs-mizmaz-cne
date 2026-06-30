@@ -1,0 +1,13 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "face",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "R3F1ND",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 200
+}

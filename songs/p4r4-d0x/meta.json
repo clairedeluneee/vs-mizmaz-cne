@@ -1,0 +1,13 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "face",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "P4R4-D0X",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 200
+}
