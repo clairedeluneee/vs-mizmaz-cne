@@ -1,14 +1,13 @@
 <!DOCTYPE codename-engine-character>
-<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
-<character sprite="mizmaz" icon="mizmaz" color="#ffea93" x="-80" y="-80" camy="200" scale="0.7">
-	<anim name="idle" anim="mizidle" x="54.28571428571429" y="5.714285714285714"/>
-	<anim name="singLEFT" anim="mizleft" x="214.2857142857143" y="0"/>
-	<anim name="singDOWN" anim="mizdown" x="85.71428571428572" y="-85.71428571428572"/>
-	<anim name="singUP" anim="mizup" x="85.71428571428572" y="57.142857142857146"/>
-	<anim name="singRIGHT" anim="mizright" x="-42.85714285714286" y="14.285714285714286"/>
-	<anim name="punch" anim="mizpunch" x="-71.42857142857143" y="-14.285714285714286"/>
-	<anim name="dodge" anim="mizdodge" x="314.2857142857143" y="20"/>
-	<anim name="hurt" anim="mizhurt" x="191.42857142857144" y="-17.142857142857142"/>
-	<anim name="attack" anim="mizpunch" x="-71.42857142857143" y="-14.285714285714286"/>
-	<anim name="hey" anim="mizpunch" x="-71.42857142857143" y="-14.285714285714286"/>
+<character x="-80" y="-80" scale="0.7" camx="-100" camy="75" icon="mizmaz" color="#FFEA93">
+	<anim name="idle" anim="mizidle" x="54.29" y="5.71"/>
+	<anim name="singLEFT" anim="mizleft" x="214.29"/>
+	<anim name="singDOWN" anim="mizdown" x="85.71" y="-85.71"/>
+	<anim name="singUP" anim="mizup" x="85.71" y="57.14"/>
+	<anim name="singRIGHT" anim="mizright" x="-42.86" y="14.29"/>
+	<anim name="punch" anim="mizpunch" x="-71.43" y="-14.29"/>
+	<anim name="dodge" anim="mizdodge" x="314.29" y="20"/>
+	<anim name="hurt" anim="mizhurt" x="191.43" y="-17.14"/>
+	<anim name="attack" anim="mizpunch" x="-71.43" y="-14.29"/>
+	<anim name="hey" anim="mizpunch" x="-71.43" y="-14.29"/>
 </character>
