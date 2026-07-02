@@ -103,14 +103,14 @@
 				"direct",
 				true
 			],
-			"time": 9631.57894736842,
+			"time": 9710.52631578947,
 			"name": "Camera Zoom"
 		},
 		{
 			"params": [
 				0.1
 			],
-			"time": 9631.57894736842,
+			"time": 9710.52631578947,
 			"name": "Camera Bop"
 		},
 		{
@@ -364,40 +364,184 @@
 			"params": [
 				0,
 				true,
-				4,
+				64,
 				"CLASSIC",
 				"In"
 			],
-			"time": 60631.5789473684,
+			"time": 61263.1578947368,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				1
+				true,
+				1.5,
+				"camGame",
+				64,
+				"quint",
+				"InOut",
+				"direct",
+				true
 			],
-			"name": "Camera Movement",
-			"time": 70736.8421052631
+			"time": 61263.1578947368,
+			"name": "Camera Zoom"
 		},
 		{
 			"params": [
-				0
+				true,
+				0.7,
+				"camGame",
+				8,
+				"quint",
+				"Out",
+				"direct",
+				true
+			],
+			"time": 70736.8421052632,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				1,
+				true,
+				32,
+				"quint",
+				"Out"
+			],
+			"name": "Camera Movement",
+			"time": 71368.4210526316
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 80052.6315789474,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				true,
+				0.75,
+				"camGame",
+				8,
+				"quint",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 80052.6315789474,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"name": "Camera Movement",
 			"time": 80842.1052631578
 		},
 		{
 			"params": [
-				1
+				false,
+				-1,
+				8,
+				"camGame"
 			],
-			"name": "Camera Movement",
-			"time": 92210.5263157894
+			"time": 80842.1052631578,
+			"name": "Camera Flash"
 		},
 		{
 			"params": [
+				2,
+				1,
+				"BEAT",
 				0
 			],
+			"time": 80842.1052631578,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				1
+			],
 			"name": "Camera Movement",
-			"time": 101052.631578947
+			"time": 91578.9473684211
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 99947.3684210526,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				8,
+				"quint",
+				"In"
+			],
+			"name": "Camera Movement",
+			"time": 100421.052631579
+		},
+		{
+			"params": [
+				true,
+				1.2,
+				"camGame",
+				8,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 100421.052631579,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				true,
+				0.65,
+				"camGame",
+				16,
+				"quint",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 101052.631578947,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				false,
+				-1,
+				8,
+				"camGame"
+			],
+			"time": 101052.631578947,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				1,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 101052.631578947,
+			"name": "Camera Modulo Change"
 		},
 		{
 			"params": [
@@ -422,59 +566,128 @@
 		},
 		{
 			"params": [
-				0
+				0,
+				true,
+				16,
+				"quint",
+				"Out"
 			],
-			"name": "Camera Movement",
-			"time": 122526.315789474
+			"time": 120000,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				1
+				4,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 120000,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				true,
+				1.2,
+				"camGame",
+				8,
+				"quint",
+				"Out",
+				"direct",
+				true
+			],
+			"time": 120631.578947368,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				1,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 121263.157894737,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				false,
+				-1,
+				8,
+				"camGame"
+			],
+			"time": 121263.157894737,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				true,
+				0.65,
+				"camGame",
+				16,
+				"quint",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 121263.157894737,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"name": "Camera Movement",
 			"time": 130105.263157895
 		},
 		{
 			"params": [
+				1,
+				true,
+				4,
+				"quint",
+				"In"
+			],
+			"time": 131368.421052632,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				false,
+				-1,
+				8,
+				"camGame"
+			],
+			"time": 131684.210526316,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				4,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 140210.526315789,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
 				0
 			],
 			"name": "Camera Movement",
-			"time": 132631.578947368
+			"time": 148973.684210526
 		},
 		{
 			"params": [
 				1
 			],
 			"name": "Camera Movement",
-			"time": 133894.736842105
-		},
-		{
-			"params": [
-				0
-			],
-			"name": "Camera Movement",
-			"time": 135157.894736842
-		},
-		{
-			"params": [
-				1
-			],
-			"name": "Camera Movement",
-			"time": 136421.052631579
-		},
-		{
-			"params": [
-				0
-			],
-			"name": "Camera Movement",
-			"time": 147789.473684211
-		},
-		{
-			"params": [
-				1
-			],
-			"name": "Camera Movement",
-			"time": 150315.789473684
+			"time": 150394.736842105
 		},
 		{
 			"params": [
@@ -484,13 +697,15 @@
 			"time": 151578.947368421
 		}
 	],
-	"codenameChart": true,
 	"stage": "the alley",
+	"codenameChart": true,
 	"scrollSpeed": 3.5,
 	"chartVersion": "1.6.0",
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 2,
@@ -525,7 +740,7 @@
 				{
 					"id": 1,
 					"sLen": 0,
-					"time": 9631.57894736842,
+					"time": 9710.52631578947,
 					"type": 0
 				},
 				{
@@ -1130,7 +1345,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 236.842105263142,
+					"sLen": 236.842105263138,
 					"time": 27315.7894736842,
 					"type": 0
 				},
@@ -1160,7 +1375,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 78.9473684210425,
+					"sLen": 78.9473684210388,
 					"time": 28736.8421052632,
 					"type": 0
 				},
@@ -1238,7 +1453,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 236.842105263142,
+					"sLen": 236.842105263138,
 					"time": 30789.4736842105,
 					"type": 0
 				},
@@ -1274,7 +1489,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 236.842105263142,
+					"sLen": 236.842105263138,
 					"time": 31736.8421052632,
 					"type": 0
 				},
@@ -1532,7 +1747,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 236.842105263138,
+					"sLen": 236.842105263131,
 					"time": 40894.7368421053,
 					"type": 0
 				},
@@ -1574,7 +1789,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 236.842105263138,
+					"sLen": 236.842105263131,
 					"time": 42631.5789473684,
 					"type": 0
 				},
@@ -1658,7 +1873,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 236.842105263189,
+					"sLen": 236.842105263197,
 					"time": 45157.8947368421,
 					"type": 0
 				},
@@ -1976,7 +2191,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263138,
+					"sLen": 236.842105263131,
 					"time": 57631.5789473684,
 					"type": 0
 				},
@@ -2120,7 +2335,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 78.9473684210316,
+					"sLen": 78.9473684210243,
 					"time": 61578.947368421,
 					"type": 0
 				},
@@ -2606,7 +2821,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 88263.1578947368,
 					"type": 0
 				},
@@ -2666,7 +2881,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 90157.894736842,
 					"type": 0
 				},
@@ -2840,7 +3055,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 78.9473684211116,
+					"sLen": 78.9473684211262,
 					"time": 103105.263157895,
 					"type": 0
 				},
@@ -3026,13 +3241,13 @@
 				},
 				{
 					"id": 0,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 108157.894736842,
 					"type": 0
 				},
 				{
 					"id": 2,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 108473.684210526,
 					"type": 0
 				},
@@ -3122,7 +3337,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 111157.894736842,
 					"type": 0
 				},
@@ -3230,7 +3445,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 114157.894736842,
 					"type": 0
 				},
@@ -3260,7 +3475,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 115105.263157895,
 					"type": 0
 				},
@@ -3363,7 +3578,7 @@
 				{
 					"id": 1,
 					"sLen": 0,
-					"time": 120789.47368421,
+					"time": 120868.421052632,
 					"type": 0
 				},
 				{
@@ -4195,23 +4410,23 @@
 					"type": 0
 				}
 			],
-			"position": "dad",
-			"strumScale": 1,
-			"strumSpacing": 1,
-			"visible": true,
-			"type": 0,
 			"characters": [
 				"RAAAGH"
 			],
+			"type": 0,
+			"visible": true,
+			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "-Opponent",
-			"strumLinePos": 0.25
+			"strumLinePos": 0.25,
+			"vocalsSuffix": "-Opponent"
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 0,
@@ -4743,7 +4958,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 78.9473684210425,
+					"sLen": 78.9473684210388,
 					"time": 27315.7894736842,
 					"type": 0
 				},
@@ -4797,7 +5012,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 78.9473684210425,
+					"sLen": 78.9473684210388,
 					"time": 28736.8421052632,
 					"type": 0
 				},
@@ -4917,7 +5132,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 236.842105263167,
+					"sLen": 236.842105263175,
 					"time": 32368.4210526316,
 					"type": 0
 				},
@@ -5253,7 +5468,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 78.9473684210825,
+					"sLen": 78.9473684210898,
 					"time": 45157.8947368421,
 					"type": 0
 				},
@@ -5517,7 +5732,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263189,
+					"sLen": 236.842105263197,
 					"time": 54157.8947368421,
 					"type": 0
 				},
@@ -5661,7 +5876,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263138,
+					"sLen": 236.842105263131,
 					"time": 57631.5789473684,
 					"type": 0
 				},
@@ -6129,7 +6344,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 236.842105263218,
+					"sLen": 236.842105263233,
 					"time": 95999.9999999999,
 					"type": 0
 				},
@@ -6249,7 +6464,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263218,
+					"sLen": 236.842105263233,
 					"time": 98999.9999999999,
 					"type": 0
 				},
@@ -6495,13 +6710,13 @@
 				},
 				{
 					"id": 3,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 108473.684210526,
 					"type": 0
 				},
 				{
 					"id": 1,
-					"sLen": 78.9473684211116,
+					"sLen": 78.9473684211262,
 					"time": 108789.473684211,
 					"type": 0
 				},
@@ -6657,7 +6872,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 631.578947368384,
+					"sLen": 631.578947368354,
 					"time": 111157.894736842,
 					"type": 0
 				},
@@ -6681,7 +6896,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 114157.894736842,
 					"type": 0
 				},
@@ -6909,13 +7124,13 @@
 				},
 				{
 					"id": 1,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 120157.894736842,
 					"type": 0
 				},
 				{
 					"id": 2,
-					"sLen": 236.842105263117,
+					"sLen": 236.842105263102,
 					"time": 120473.684210526,
 					"type": 0
 				},
@@ -7496,30 +7711,28 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"strumSpacing": 1,
-			"visible": true,
-			"type": 1,
 			"characters": [
 				"mizmaz-player"
 			],
+			"type": 1,
+			"visible": true,
+			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "-Player",
-			"strumLinePos": 0.75
+			"strumLinePos": 0.75,
+			"vocalsSuffix": "-Player"
 		},
 		{
 			"keyCount": 4,
-			"position": "girlfriend",
 			"notes": [],
+			"position": "girlfriend",
+			"type": 2,
+			"visible": false,
 			"characters": [
 				"gf"
-			],
-			"visible": false,
-			"type": 2
+			]
 		}
 	],
 	"noteTypes": []
