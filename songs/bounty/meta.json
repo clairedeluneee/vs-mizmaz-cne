@@ -1,11 +1,12 @@
 {
+	"customValues": {},
+	"color": "#000000",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "mizmaz",
 	"coopAllowed": false,
-	"color": "#9271FD",
 	"stepsPerBeat": 4,
 	"displayName": "Bounty",
 	"needsVoices": true,

@@ -162,13 +162,15 @@
 			"time": 94769.2307692309
 		}
 	],
-	"stage": "the alley",
 	"codenameChart": true,
+	"stage": "the alley",
 	"scrollSpeed": 3,
 	"chartVersion": "1.6.0",
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 1,
@@ -340,7 +342,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 730.76923076922,
+					"sLen": 730.769230769216,
 					"time": 27076.9230769231,
 					"type": 0
 				},
@@ -592,7 +594,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 192.307692307717,
+					"sLen": 192.307692307724,
 					"time": 43461.4950000002,
 					"type": 0
 				},
@@ -670,13 +672,13 @@
 				},
 				{
 					"id": 3,
-					"sLen": 269.230769230751,
+					"sLen": 269.230769230737,
 					"time": 54153.8461538462,
 					"type": 0
 				},
 				{
 					"id": 1,
-					"sLen": 269.23076923078,
+					"sLen": 269.230769230788,
 					"time": 54461.4840000002,
 					"type": 0
 				},
@@ -1095,23 +1097,23 @@
 					"type": 0
 				}
 			],
+			"characters": [
+				"mizmaz"
+			],
+			"type": 0,
 			"visible": true,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "dad",
-			"strumScale": 1,
-			"vocalsSuffix": "-Opponent",
 			"strumLinePos": 0.25,
-			"type": 0,
-			"characters": [
-				"mizmaz"
-			]
+			"vocalsSuffix": "-Opponent"
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 3,
@@ -1163,7 +1165,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 730.769230769234,
+					"sLen": 730.769230769236,
 					"time": 11846.142,
 					"type": 0
 				},
@@ -1235,13 +1237,13 @@
 				},
 				{
 					"id": 2,
-					"sLen": 730.769230769238,
+					"sLen": 730.769230769241,
 					"time": 23692.284,
 					"type": 0
 				},
 				{
 					"id": 3,
-					"sLen": 730.769230769238,
+					"sLen": 730.769230769241,
 					"time": 24538.437,
 					"type": 0
 				},
@@ -1277,7 +1279,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 730.76923076922,
+					"sLen": 730.769230769216,
 					"time": 27076.9230769231,
 					"type": 0
 				},
@@ -1523,13 +1525,13 @@
 				},
 				{
 					"id": 3,
-					"sLen": 192.307692307681,
+					"sLen": 192.307692307673,
 					"time": 49692.2580000002,
 					"type": 0
 				},
 				{
 					"id": 0,
-					"sLen": 269.230769230751,
+					"sLen": 269.230769230737,
 					"time": 49923.0270000002,
 					"type": 0
 				},
@@ -1571,7 +1573,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 307.692307692319,
+					"sLen": 307.692307692327,
 					"time": 52076.8710000002,
 					"type": 0
 				},
@@ -1601,13 +1603,13 @@
 				},
 				{
 					"id": 3,
-					"sLen": 307.692307692283,
+					"sLen": 307.692307692276,
 					"time": 53769.1770000002,
 					"type": 0
 				},
 				{
 					"id": 1,
-					"sLen": 730.76923076922,
+					"sLen": 730.769230769212,
 					"time": 54153.8461538462,
 					"type": 0
 				},
@@ -1997,7 +1999,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 192.307692307644,
+					"sLen": 192.30769230763,
 					"time": 79307.6130000003,
 					"type": 0
 				},
@@ -2033,35 +2035,33 @@
 				},
 				{
 					"id": 2,
-					"sLen": 1423.07692307688,
+					"sLen": 1423.07692307686,
 					"time": 81230.7692307694,
 					"type": 0
 				}
 			],
+			"characters": [
+				"bf"
+			],
+			"type": 1,
 			"visible": true,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"vocalsSuffix": "-Player",
 			"strumLinePos": 0.75,
-			"type": 1,
-			"characters": [
-				"bf"
-			]
+			"vocalsSuffix": "-Player"
 		},
 		{
 			"keyCount": 4,
-			"notes": [],
 			"position": "girlfriend",
-			"type": 2,
-			"visible": false,
+			"notes": [],
 			"characters": [
 				"gf"
-			]
+			],
+			"visible": false,
+			"type": 2
 		}
 	],
 	"noteTypes": []
