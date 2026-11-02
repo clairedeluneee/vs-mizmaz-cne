@@ -1,6 +1,6 @@
 <!DOCTYPE codename-engine-character>
-<character x="-80" y="-80" scale="0.7" camx="100" camy="70" icon="JEB">
-	<anim name="idle" anim="mizidle" loop="true"/>
+<character x="-80" y="-80" scale="0.7" camx="100" camy="70">
+	<anim name="idle" anim="mizidle" x="-4.29" y="-14.29" loop="true"/>
 	<anim name="singDOWN" anim="mizdown" x="152.86" y="-45.71"/>
 	<anim name="singRIGHT" anim="mizright" y="24.29"/>
 	<anim name="singLEFT" anim="mizleft" x="307.14" y="52.86"/>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/yella eht/" name="yella eht" zoom="0.65">
+	<girlfriend x="723.468870432139" y="422.169910721492"/>
+	<sprite x="121" sprite="yellaeht" y="-51" type="none" scale="2.3" skewy="0.13" name="alley"/>
+	<dad x="266.359237791589" y="563.972109871225"/>
+	<boyfriend x="1298.9876439508" y="561.859486434091"/>
+</stage>

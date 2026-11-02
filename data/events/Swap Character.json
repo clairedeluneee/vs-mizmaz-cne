@@ -1,0 +1,19 @@
+{
+  "params": [
+    {
+      "name": "Slot (Num or Character)",
+      "type": "String",
+      "defaultValue": "0"
+    },
+    {
+      "name": "Character Index",
+      "type": "Int(0, 20, 1)",
+      "defaultValue": 0
+    },
+    {
+      "name": "Character ID",
+      "type": "String",
+      "defaultValue": "bf"
+    }
+  ]
+}
