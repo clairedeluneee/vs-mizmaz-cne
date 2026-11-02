@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="images/japan/" name="archway">
+	<girlfriend/>
+	<dad/>
+	<boyfriend/>
+	<sprite type="none" sprite="fuh.png" name="sprite_3"/>
+</stage>

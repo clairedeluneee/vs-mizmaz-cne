@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="Japan/" name="Japan">
+	<sprite x="-258.112697945994" sprite="fuh" y="-336.820583524339" type="none" scale="1.3298642246841" name="sprite_3"/>
+	<girlfriend x="325.02036627805" y="83.9899353279204"/>
+	<dad x="-48.7075182855783" y="91.8454369256959"/>
+	<boyfriend x="926.975345736417" y="108.72085689259"/>
+</stage>
